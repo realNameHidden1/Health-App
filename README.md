@@ -5,6 +5,11 @@ this app will send daily routine notifications for old age persons on the phone 
 ![App Screenshot](https://cdn.pixabay.com/photo/2018/02/28/18/49/woman-3188745_960_720.jpg)
 
 
+## Regular Daily Routine Benefits
+
+- Reduced stress and anxiety
+- Increased feeling of safety and security
+- Improve sleep
 
 ## Establishing a daily routine for seniors can help them and their caregivers.
 
